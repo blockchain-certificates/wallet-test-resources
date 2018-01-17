@@ -6,7 +6,7 @@
     "response": {
         "status": 302,
         "headers": {
-          "Location": "http://localhost:1234/issuer/web-auth/login-portal"
+          "Location": "http://10.0.2.2:1234/issuer/web-auth/login-portal"
         },
         "body": ""
     }
